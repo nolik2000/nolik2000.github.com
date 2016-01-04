@@ -52,8 +52,8 @@ background-color: #EEEED1;
 }
 
 .one{
-	margin-left:333px;
-	margin-top:-50px;
+	margin-left:337px;
+	margin-top:-40px;
 }
 
 .cast{
@@ -84,4 +84,9 @@ color:#CD5555;
 
 .season1 li:nth-child(2) a:hover{
 	color:#EEC900;
+}
+
+iframe{
+	border-radius:3px;
+	box-shadow:15px 15px 20px rgba(0,0,0,0.5);
 }
