@@ -5,8 +5,8 @@ background-position:300px 15px, 300px 215px, 300px 315px, 300px 415px, 300px 515
 background-attachment:scroll;
 background-size:700px 120px,700px 120px,700px 120px,700px 120px,700px 120px,700px 120px,700px 120px, 300px, 300px, 300px, 230px,700px 120px,700px 120px,700px 120px;
 padding: 10px;
-font-family: Comic, cursive;
-font-size: 25px;
+font-family: 'Neucha', cursive;
+font-size: 27px;
 line-height: 1.5;
 min-width:1350px;
 max-width:1355px;
@@ -20,8 +20,8 @@ max-width:1355px;
 .main-menu {
 float:right;
 margin-top:26px;
-margin-left:340px;
-margin-right:385px;
+margin-left:385px;
+margin-right:355px;
 padding: 0px;
 list-style: none;
 border: 2px  #FFFAFA;
