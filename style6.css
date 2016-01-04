@@ -85,3 +85,9 @@ color: #EEC900;
 .season1 li:nth-child(2) a:hover{
 	color:#76EE00;
 }
+
+iframe{
+	border-radius:3px;
+	box-shadow:15px 15px 20px rgba(0,0,0,0.5);
+}
+
