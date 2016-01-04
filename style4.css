@@ -6,8 +6,8 @@ background-position:300px 15px, -5px 150px,-20px 450px,1040px 10px,1040px 370px,
 background-attachment:scroll;
 background-size:700px 120px,300px, 300px, 300px, 230px,300px,350px,550px, 350px, 400px,850px,370px;
 padding: 10px;
-font-family: Comic, cursive;
-font-size: 25px;
+font-family: 'Neucha', cursive;
+font-size: 27px;
 line-height: 1.5;
 margin:5px;
 min-width:1350px;
@@ -24,8 +24,8 @@ min-height:1300px;
 .main-menu {
 float:right;
 margin-top:15px;
-margin-left:340px;
-margin-right:385px;
+margin-left:385px;
+margin-right:355px;
 padding: 0px;
 list-style: none;
 border: 2px  #FFFAFA;
